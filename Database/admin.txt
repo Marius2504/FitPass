@@ -1,0 +1,9 @@
+username=usr
+email=usr
+dieta=
+NM=
+ND=
+AF=
+kg=
+inaltime=
+sex=
